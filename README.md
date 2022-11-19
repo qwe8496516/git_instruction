@@ -92,3 +92,10 @@
   3. 如果有錯誤則 fix it 否則 abort
   
   4. 再 push 上去一次完成了之後
+
+<br>
+<br>
+## 其他參考資料
+  <https://ithelp.ithome.com.tw/articles/10271811/>
+  
+  <https://backlog.com/git-tutorial/tw/stepup/stepup2_3.html/>
