@@ -8,7 +8,7 @@ git status
 ```
 
 >確認目錄狀況
-\n
+<br>
 ```bash
 git add .
 ```
