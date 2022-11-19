@@ -1,3 +1,6 @@
 # git_instruction
 
-### 我是大標題
+### 基本版本控制操作
+'''
+git status
+'''
