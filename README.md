@@ -51,3 +51,27 @@
 
 >將提交內容推到github
 <br>
+
+
+## 分支合併
+
+```bash
+  git branch -M <branch-name>
+```
+
+> 新增一個分支
+<br>
+
+```bash
+  git checkout <branch-name>
+```
+
+> 切換到另一個分支
+<br>
+
+```bash
+  git merge <branch-name>
+```
+
+> 把<branch-name>的分支合併到當前分支
+<br>
