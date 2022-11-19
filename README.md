@@ -99,11 +99,7 @@
 ## 其他參考資料
   
   1. 懶人包:
-
-  
   <https://ithelp.ithome.com.tw/articles/10271811/>
   
   2. 完整語法:
- 
-  
   <https://backlog.com/git-tutorial/tw/stepup/stepup2_3.html/>
