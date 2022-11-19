@@ -75,3 +75,5 @@
 
 > 把<branch-name>的分支合併到當前分支
 <br>
+
+# merge方法
