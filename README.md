@@ -1,5 +1,7 @@
 # git_instruction
 
 ### 基本版本控制操作
-// Marked text
+''' git
+  git status
+'''
 >這是註解
