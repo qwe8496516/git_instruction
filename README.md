@@ -98,8 +98,12 @@
   
 ## 其他參考資料
   
-  1. 懶人包
+  1. 懶人包:
+  <br>
+  
   <https://ithelp.ithome.com.tw/articles/10271811/>
   
-  2. 完整語法
+  2. 完整語法:
+  <br>
+  
   <https://backlog.com/git-tutorial/tw/stepup/stepup2_3.html/>
