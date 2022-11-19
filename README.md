@@ -76,11 +76,19 @@
 > 把<branch-name>的分支合併到當前分支
 <br>
 
-# merge方法
-## 所有檔案資料夾merge
-  1. 把要merge的分支都push上github
+# merge 方法
+## 所有檔案資料夾 merge
+  1. 把要 merge 的分支都 push上github
   
-  2. 輸入git merge <branch-name>
+  2. 輸入 git merge <branch-name>
   
-  3. 再push上去一次完成了之後
+  3. 再 push 上去一次完成了之後
 
+## 單一檔案 merge
+  1. 把要 merge 的分支的檔案都 commit
+  
+  2. 輸入 git merge <branch-name>
+  
+  3. 如果有錯誤則 fix it 否則 abort
+  
+  4. 再 push 上去一次完成了之後
