@@ -77,6 +77,9 @@
 <br>
 
 # merge方法
+  
 1. 把要merge的分支都push上github
+  
 2. 輸入git merge <branch-name>
+  
 3. 再push上去一次完成了之後
