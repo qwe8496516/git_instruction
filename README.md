@@ -32,6 +32,19 @@
 <br>
 
 ```bash
+git config --global user.name "ID"
+```
+>確認姓名
+<br>
+
+```bash
+git config --global user.email <email>
+```
+>確認email
+<br>
+
+
+```bash
   git commit -m <message>
 ```
 
